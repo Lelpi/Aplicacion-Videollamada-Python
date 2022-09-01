@@ -1,0 +1,4 @@
+appJar
+numpy
+opencv-python
+Pillow
